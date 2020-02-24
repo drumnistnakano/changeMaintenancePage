@@ -1,0 +1,2 @@
+# changeMaintenancePage
+LambdeでELBのリスナールールを変更してメンテナンスページへ切替
